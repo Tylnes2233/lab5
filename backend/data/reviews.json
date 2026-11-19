@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "game_id": 1,
+    "author": "HornetFan_UA",
+    "is_recommended": true,
+    "hours_played": 64.5,
+    "text": "Неймовірна атмосфера, бойова система стала ще швидшою та динамічнішою. Кожна локація — шедевр!",
+    "created_at": "2026-11-10T14:20:00.000Z"
+  },
+  {
+    "id": 102,
+    "game_id": 1,
+    "author": "IndieExplorer",
+    "is_recommended": true,
+    "hours_played": 42,
+    "text": "Саундтрек та арт-дирекшн на найвищому рівні. Боси змушують вивчати кожен рух.",
+    "created_at": "2026-11-12T18:05:00.000Z"
+  },
+  {
+    "id": 103,
+    "game_id": 3,
+    "author": "RevacholDetective",
+    "is_recommended": true,
+    "hours_played": 38.2,
+    "text": "Найкраще написані діалоги в історії індустрії. Внутрішні голоси персонажа — це геніально.",
+    "created_at": "2026-11-14T09:30:00.000Z"
+  },
+  {
+    "id": 104,
+    "game_id": 2,
+    "author": "OlympusRunner",
+    "is_recommended": true,
+    "hours_played": 91,
+    "text": "Безліч білдів, зброї та богів. Неможливо відірватися навіть після перемоги над фінальним босом.",
+    "created_at": "2026-11-15T21:15:00.000Z"
+  },
+  {
+    "id": 105,
+    "game_id": 4,
+    "author": "BeltSpaghetti",
+    "is_recommended": false,
+    "hours_played": 120,
+    "text": "Гра поглинула мій вільний час повністю, тепер конвеєри сняться вночі!",
+    "created_at": "2026-11-16T11:45:00.000Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Hollow Knight: Silksong",
+    "genre": "Metroidvania",
+    "price": 599,
+    "discount": 20,
+    "developer": "Team Cherry",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1030300/header.jpg",
+    "description": "Досліджуйте величезне королівство комах, опановуйте акробатичний бій та розкрийте таємниці стародавньої цитаделі."
+  },
+  {
+    "id": 2,
+    "title": "Hades II",
+    "genre": "Roguelike",
+    "price": 699,
+    "discount": 0,
+    "developer": "Supergiant Games",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1145350/header.jpg",
+    "description": "Боріться за межами Підземного світу, використовуючи темну магію проти Титана Часу у динамічному рогалику."
+  },
+  {
+    "id": 3,
+    "title": "Disco Elysium: The Final Cut",
+    "genre": "RPG",
+    "price": 479,
+    "discount": 75,
+    "developer": "ZA/UM",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/header.jpg",
+    "description": "Революційна рольова гра з відкритим світом, глибокими діалогами та повною свободою вибору ролі детектива."
+  },
+  {
+    "id": 4,
+    "title": "Factorio: Space Age",
+    "genre": "Strategy",
+    "price": 750,
+    "discount": 10,
+    "developer": "Wube Software",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/427520/header.jpg",
+    "description": "Будуйте та автоматизуйте гігантські фабрики, запускайте ракети у космос і освоюйте нові планети."
+  }
+]
